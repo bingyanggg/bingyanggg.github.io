@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bingyang Ye"
+title                    : "Bingyang Ye 叶秉阳"
 title_separator          : "-"
-subtitle                 : "Welcome! I am Jingxuan Tu (屠竞轩), Ph.D student and computational linguistics enthusiast."
-name                     : "Bingyang Ye"
+# subtitle                 : "Welcome! I am Jingxuan Tu (屠竞轩), Ph.D student and computational linguistics enthusiast."
+# name                     : "Bingyang Ye"
 description              : "Bingyang Ye's personal web page"
 url                      : "https://bingyanggg.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
