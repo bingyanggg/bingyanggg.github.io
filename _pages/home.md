@@ -5,17 +5,24 @@ author_profile: true
 permalink: /
 ---
 
-<span style="font-size:2em">**Bingyang Ye**</span>
+<!-- <span style="font-size:2em">**Bingyang Ye**</span> -->
 
-I am a Ph.D Student at Brandeis University working 
-with Professor James Pustejovsky, where I study Computational Linguistics 
-and Artificial Intelligence. I started my doctoral work in 2019.
+### About
+I am a NLP Scientist at CodaMetrix. My work focuses on develpoing machine/deep learning architecures to model Electronic Health Records (EHR), compiling novel large EHR corpora, and ultimately building an automation system for medical billing.  
+My research interests include Clinical NLP, ML/DL and language annotations in general.
 
-<span style="font-size:0.8em">**Email**: jxtu at brandeis dot edu</span><br/>
-<span style="font-size:0.8em">**Address**: Volen Center for Complex Systems 110,
-Brandeis University, 415 South St.
-Waltham, MA 02454</span>
+### Publications
+[Supervised Learning in the Presence of Noise: Application in ICD-10 Code Classification](https://arxiv.org/pdf/2103.07808.pdf)
+Kim, Youngwoo, Cheng Li, **Bingyang Ye**, Amir M. Tahmasebi and Javed A. Aslam.  
+*ArXiv abs/2103.07808 (2021): n. pag*
 
+[From Extreme Multi-label to Multi-class: A Hierarchical Approach for Automated ICD-10 Coding Using Phrase-level Attention](https://arxiv.org/pdf/2102.09136.pdf)
+Sen, Cansu, **Bingyang Ye**, Javed A. Aslam and Amir M. Tahmasebi.  
+*ArXiv abs/2102.09136 (2021): n. pag*
+
+[An Ensemble Approach to Automatic Structuring of Radiology Reports](https://aclanthology.org/2020.clinicalnlp-1.28.pdf)
+Shahri, Morteza Pourreza, Amir M. Tahmasebi, **Bingyang Ye**, Henghui Zhu, Javed A. Aslam and Timothy G. Ferris.  
+*CLINICALNLP (2020)*
 
 ## Activities
 ---
