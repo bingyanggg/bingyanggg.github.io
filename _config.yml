@@ -96,10 +96,10 @@ author:
   name             : "Bingyang Ye"
   avatar           : "/assets/images/avator.jpeg"
   bio              : "NLP Scientist@CodaMetrix"
-  location         : "31 St. James Ave, Suite 850, Boston, MA 02116"
+  location         : "Boston, MA"
   email            : "byye@brandeis.edu"
   links:
-    - label: "Email"
+    - label: "byye at brandeis dot edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "byye@brandeis.edu"
     - label: "Website"
