@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bingyang Ye 叶秉阳"
+title                    : "Bingyang Ye 叶 秉阳"
 title_separator          : "-"
 subtitle                 : #"Welcome! I am Jingxuan Tu (屠竞轩), Ph.D student and computational linguistics enthusiast."
 name                     : #"Bingyang Ye"
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bingyang Ye"
+  name             : #"Bingyang Ye"
   avatar           : "/assets/images/avatar (2).jpg"
   bio              : "NLP Scientist@CodaMetrix"
   location         : "Boston, MA"
-  email            : "byye@brandeis.edu"
+  byye at brandeis dot edu            : "byye@brandeis.edu"
   links:
     - label: "byye at brandeis dot edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "byye@brandeis.edu"
+      url: "byye at brandeis dot edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
