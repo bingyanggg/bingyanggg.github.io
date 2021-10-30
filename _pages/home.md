@@ -9,6 +9,7 @@ permalink: /
 
 ### About
 I am a NLP Scientist at CodaMetrix. My work focuses on develpoing machine/deep learning architecures to model Electronic Health Records (EHR), compiling novel large EHR corpora, and ultimately building an automation system for medical billing. Before joining CodaMetrix, I received my MS degree in Computational Linguistics from Brandeis University. 
+
 My research interests include Clinical NLP, Natural Language Understanding, language annotations and ML/DL in general.
 
 ### Publications
