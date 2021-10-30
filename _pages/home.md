@@ -8,8 +8,8 @@ permalink: /
 <!-- <span style="font-size:2em">**Bingyang Ye**</span> -->
 
 ### About
-I am a NLP Scientist at CodaMetrix. My work focuses on develpoing machine/deep learning architecures to model Electronic Health Records (EHR), compiling novel large EHR corpora, and ultimately building an automation system for medical billing.  
-My research interests include Clinical NLP, ML/DL and language annotations in general.
+I am a NLP Scientist at CodaMetrix. My work focuses on develpoing machine/deep learning architecures to model Electronic Health Records (EHR), compiling novel large EHR corpora, and ultimately building an automation system for medical billing. Before joining CodaMetrix, I received my MS degree in Computational Linguistics from Brandeis University. 
+My research interests include Clinical NLP, Natural Language Understanding, language annotations and ML/DL in general.
 
 ### Publications
 [Supervised Learning in the Presence of Noise: Application in ICD-10 Code Classification](https://arxiv.org/pdf/2103.07808.pdf)\
@@ -23,6 +23,10 @@ Sen, Cansu, **Bingyang Ye**, Javed A. Aslam and Amir M. Tahmasebi.
 [An Ensemble Approach to Automatic Structuring of Radiology Reports](https://aclanthology.org/2020.clinicalnlp-1.28.pdf)\
 Shahri, Morteza Pourreza, Amir M. Tahmasebi, **Bingyang Ye**, Henghui Zhu, Javed A. Aslam and Timothy G. Ferris.  
 *CLINICALNLP (2020)*
+
+### Presentations
+[Automatic CPT Coding of Radiology Notes using Convolutional Recurrent Neural Network](https://siim.org/page/2020cmimi_clinical_applications_2)\
+C-MIMI 2020
 
 <!-- ## Activities
 ---
