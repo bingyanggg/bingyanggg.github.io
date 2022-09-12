@@ -10,9 +10,13 @@ permalink: /
 ### About
 I am a NLP Scientist at CodaMetrix. My work focuses on develpoing machine/deep learning architecures to model Electronic Health Records (EHR), compiling novel large EHR corpora, and ultimately building an automation system for medical billing. Before joining CodaMetrix, I received my MS degree in Computational Linguistics from Brandeis University. 
 
-My research interests include Natural Language Understanding, Clinical NLP, Language Annotation and ML/DL in general. 
+My research interests include Natural Language Understanding, Computational Linguistics, Language Annotation, Clinical NLP and ML/DL in general. 
 
 ### Publications
+[Interpreting Logical Metonymy through Dense Paraphrasing](https://escholarship.org/content/qt19k4w0c1/qt19k4w0c1.pdf)\
+**Ye, Bingyang**, Jingxuan Tu, Elizabeth Jezek, James Pustejovsky.
+Proceedings of the Annual Meeting of the Cognitive Science Society. 2022, 44(44).
+
 [Supervised Learning in the Presence of Noise: Application in ICD-10 Code Classification](https://arxiv.org/pdf/2103.07808.pdf)\
 Kim, Youngwoo, Cheng Li, **Bingyang Ye**, Amir M. Tahmasebi and Javed A. Aslam.  
 *ArXiv abs/2103.07808 (2021): n. pag*
