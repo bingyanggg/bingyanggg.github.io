@@ -8,7 +8,7 @@ permalink: /
 <!-- <span style="font-size:2em">**Bingyang Ye**</span> -->
 
 ### About
-I am a NLP Scientist at CodaMetrix. My work focuses on develpoing machine/deep learning architecures to model Electronic Health Records (EHR), compiling novel large EHR corpora, and ultimately building an automation system for medical billing. Before joining CodaMetrix, I received my MS degree in Computational Linguistics from Brandeis University. 
+I am a first year PhD student in Natural Language Processing supervised by [Prof. James Pustejovsky](https://jamespusto.com/) at Brandeis University. Before, I worked as a NLP Scientist at CodaMetrix with a focus in Clinical NLP.
 
 My research interests include Natural Language Understanding, Computational Linguistics, Language Annotation, Clinical NLP and ML/DL in general. 
 
