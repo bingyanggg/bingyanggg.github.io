@@ -60,13 +60,13 @@ nav.header {
     height: 50px;
     display: flex;
     align-items: center;
-    background: var(--background);
     z-index: 999;
 }
 
 .header h4 {
     padding: 20px;
     margin-right: auto;
+    background: var(--background);
 }
 
 /*sections*/
